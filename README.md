@@ -8,6 +8,7 @@
 
 ### Courses
 
+- 2019-12: [20 minutes to Pytest](https://github.com/geomar-tm/pytest-intro-2019)
 - 2019-06: [3-4 hour Dask-Jobqueue workshop](https://github.com/willirath/dask_jobqueue_workshop_materials)
 - 2018-04: [2-day Python intro](https://github.com/geomar-tm/python-intro-201804)
 - 2018: [A 4 hour git intro](http://willirath.gitlab.io/git-intro/) Based on
