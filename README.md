@@ -9,6 +9,7 @@
 
 ### Courses
 
+- 2020-03: [Workshop on interactive workloads on NESH](https://github.com/ExaESM-WP4/workshop-nesh-2020-03/tree/v2020.03.04.1)
 - 2019-12: [20 minutes to Pytest](https://github.com/geomar-tm/pytest-intro-2019)
 - 2019-06: [3-4 hour Dask-Jobqueue workshop](https://github.com/willirath/dask_jobqueue_workshop_materials)
 - 2018-04: [2-day Python intro](https://github.com/geomar-tm/python-intro-201804)
